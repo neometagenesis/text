@@ -1,1 +1,1 @@
-
+{"gameName":"Candy Match 3","storeLink":"https://play.google.com/store/apps/details?id=com.labcapuz.gummycandymatch3","imageUrls":["https://play-lh.googleusercontent.com/tyGTedHryW-dhbjvddbFFTT1_TZcUs4_sUDUpUOSIZxL0E6w889MBq5TDw2vxFRF4Ww=w1526-h1296"]}
